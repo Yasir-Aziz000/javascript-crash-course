@@ -4,7 +4,7 @@ function Adder(num) {
       return num + x;
     };
   }
-  const addFive = Adder(5);
+  const addINGFive = Adder(5);
   console.log(addINGFive(10)); 
   console.log(addINGFive(20)); 
 
